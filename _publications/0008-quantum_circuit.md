@@ -1,10 +1,10 @@
 ---
-title: "Variational Quantum Circuit Model for Knowledge GraphEmbedding"
+title: "Variational Quantum Circuit Model for Knowledge Graph Embedding"
 collection: publications
 permalink: /publication/0008-quantum_circuit
 excerpt: '
 <p align="left">
-  <img width="500" height="" src="/0008-quantum_circuit.png">
+  <img width="500" height="" src="/images/0008-quantum_circuit.png">
 </p>'
 date: 2019-02-12
 venue: 'Publisched in Advanced Quantum Technologies, Special Issue: Quantum Machine Learning'
