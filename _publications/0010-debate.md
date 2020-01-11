@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/0010-debate
 excerpt: '
 <p align="left">
-  <img width="500" height="" src="/images/0009-qsvd.png">
+  <img width="500" height="" src="/images/0010-debate.png">
 </p>'
 date: 2020-01-02
 venue: 'Published in Association for the Advancement of Artificial Intelligence (<span style="font-weight:bold">Oral</span>)'
